@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "strong_password"
+    },
+    {
+      "username": "Madhav",
+      "password": "v3ry_5tr0ng_p455w0rd"
+    },
+    {
+      "username": "Gauri",
+      "password": "0mg_th15_p455w0rd"
+    },
+    {
+      "username": "Aryan",
+      "password": "w33b_u53r_420"
+    },
+    {
+      "username": "Jasdeep",
+      "password": "Fr1d4y"
+    },
+    {
+      "username": "Manav",
+      "password": "tanjiro"
+    }
+  ]
+}
+

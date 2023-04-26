@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <title>Madhav's Vulnerable Sign-up Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <main>
+    <article>
+      <h2>Sign Up</h2>
+      <form>
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username"><br>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password"><br>
+
+        <label for="confirm_password">Confirm Password:</label>
+        <input type="password" id="confirm_password" name="confirm_password"><br>
+
+        <input type="submit" value="Submit" onclick="register()">
+      </form>
+      <p>Already have an account? <a href="login.html" class="button">Login</a></p>
+    </article>
+    <script src="script.js"></script>
+  </main>
+</body>
+
+</html>
