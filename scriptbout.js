@@ -1,4 +1,4 @@
-var text = " This looks cool......... right?";
+var text = " My name is Madhav tyagi, i am doing BCA in cybersecurity @ManavRachna";
 var delay = 100; // milliseconds
 
 function typeCharacter(i, callback) {

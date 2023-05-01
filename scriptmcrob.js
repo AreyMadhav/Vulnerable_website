@@ -1,4 +1,4 @@
-var text = " This looks cool......... right?";
+var text = " aSB3YW50IHRvIHB1Ymxpc2ggYSBtYW5nYSBieSB0aGUgZW5kIG9mIG15IEJDQSBhbmQgdGhlbiBpIHdhbnQgdG8gZ28gdG8gamFwYW4=";
 var delay = 100; // milliseconds
 
 function typeCharacter(i, callback) {

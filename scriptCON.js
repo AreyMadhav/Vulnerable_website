@@ -1,4 +1,4 @@
-var text = " This looks cool......... right?";
+var text = "email me @xibmadhavtyago@gmail.com";
 var delay = 100; // milliseconds
 
 function typeCharacter(i, callback) {
